@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ziad",
+    "degree": "MBBS FCPS FRCS",
+    "Visiting_hour": "6pm-11pm",
+    "img": "https://pngimg.com/uploads/doctor/doctor_PNG15988.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Prity",
+    "degree": "MBBS FCPS ",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://www.citypng.com/public/uploads/preview/female-doctor-hijab-muslim-nurse-white-coat-11586828056m5relhirje.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Riya",
+    "degree": "MBBS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://image.pngaaa.com/457/5457-middle.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Tani",
+    "degree": "MBBS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Eva",
+    "degree": "MBBS FCPS",
+    "Visiting_hour": "5pm-10pm",
+    "img": "https://www.innovaprocurement.co.za/wp-content/uploads/2020/11/black_female_doctor.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Esha",
+    "degree": "MBBS FCPS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://harvardeye.com/wp-content/uploads/isabell-choi-1.jpg",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Kaniz",
+    "degree": "MBBS FCPS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://harvardeye.com/wp-content/uploads/isabell-choi-1.jpg",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Jannatul Ferdous Muna",
+    "degree": "MBBS FCPS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://unitedphysiciangroup.com/wp-content/uploads/2019/12/female-doctor.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Pinky",
+    "degree": "MBBS FCPS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://www.nicepng.com/png/detail/940-9406943_free-png-women-pointing-perfect-symbol-png-images.png",
+    "phone_number": "01xxxxxxxxx"
+  }
+]

@@ -1,0 +1,24 @@
+/* header */
+.navbar {
+  background-color: #ff6347;
+  box-shadow: 0px 2px 5px 0px rgb(50 50 50 / 59%);
+  color: #fff;
+}
+.navbar-light .navbar-nav .nav-link.active {
+  color: #fff;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.nav-link {
+  color: #fff;
+}
+.nav-link:focus,
+.nav-link:hover {
+  color: #fff;
+}
+.log-out {
+  border-color: transparent;
+  background-color: #fff;
+  color: #ff6347;
+  margin-right: 2px;
+}

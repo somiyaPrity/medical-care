@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "X-ray",
+    "price": 1200,
+    "service": "Just call us, and we will be at your doorstep with our portable X-Ray machine. We will even deliver your report at home!",
+    "rating": 4,
+    "phone": "013xxxxxxxx",
+    "img": "https://www.s-spinehospital.com/en/wp-content/uploads/2021/02/x-ray_machine.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Creatinine",
+    "price": 800,
+    "service": "Just call us, and we will be at your doorstep. We will even deliver your report at home!",
+    "rating": 3.8,
+    "phone": "012xxxxxxxx",
+    "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322380_2200-1200x628.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CBC",
+    "price": 1200,
+    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
+    "rating": 4.0,
+    "phone": "014xxxxxxxx",
+    "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321303/cbc-blood-test-to-test-for-high-mchc.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ultrasonography",
+    "price": 1500,
+    "service": "Just call us, and we will be at your doorstep. We will even deliver your report at home!",
+    "rating": 2.2,
+    "phone": "015xxxxxxxx",
+    "img": "https://www.radiologyinfo.org/-/media/radinfo/gallery-items/images/r-to-t/radiologist-doing-sonogram.ashx"
+  },
+  {
+    "id": 5,
+    "name": "Electrolite",
+    "price": 900,
+    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
+    "rating": 4.5,
+    "phone": "012xxxxxxxx",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nwT06bRob2zcbbgHGeS-etk4XnLQbLdoBs9gpDXmzJS6J04ifJdA1MmWo9RGJuiByao&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "Blood Test",
+    "price": 2000,
+    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
+    "rating": 4.5,
+    "phone": "017xxxxxxxx",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nwT06bRob2zcbbgHGeS-etk4XnLQbLdoBs9gpDXmzJS6J04ifJdA1MmWo9RGJuiByao&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "name": "ECG",
+    "price": 2500,
+    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
+    "rating": 3.0,
+    "phone": "012xxxxxxxx",
+    "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/cats_98.jpg?uOWCJOfLW1UD4T52D0un_s7ff9ydUcyi&size=770:433"
+  },
+  {
+    "id": 8,
+    "name": "MRI",
+    "price": 5000,
+    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
+    "rating": 4.9,
+    "phone": "012xxxxxxxx",
+    "img": "https://onewelbeck.com/cardiology/wp-content/uploads/sites/3/2019/08/MRI-Scanner.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Diabetic",
+    "price": 50,
+    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
+    "rating": 2.9,
+    "phone": "012xxxxxxxx",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk7yojkva2l2zZ7l-_cYEcv3bv85rz7Ce3Q&usqp=CAU"
+  }
+]

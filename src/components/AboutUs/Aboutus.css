@@ -1,0 +1,13 @@
+/* about us */
+.about-us {
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about-content h3 {
+  color: #ff6347;
+}
+.about-img img {
+  width: 500px;
+}

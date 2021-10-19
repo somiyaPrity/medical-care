@@ -1,0 +1,21 @@
+.doctor-img {
+  height: 400px;
+}
+.card-footer {
+  background-color: #ff6347;
+  color: #fff;
+}
+.appoint-btn {
+  color: #ff6347;
+  background-color: #fff;
+  padding: 8px 12px;
+  border-color: transparent;
+}
+.doctor-heading {
+  width: 100%;
+  text-align: center;
+  margin: 50px 0;
+}
+.doctor-heading h1 {
+  color: #ff6347;
+}

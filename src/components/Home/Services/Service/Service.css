@@ -1,0 +1,19 @@
+/* service */
+.card-service {
+  border-radius: 8px;
+
+  box-shadow: rgba(255, 99, 71, 0.569) 0px 0px 10px;
+}
+.rating-color {
+  color: gold;
+}
+.service-button {
+  margin-top: 8px;
+  color: #fff;
+  background-color: #ff6347;
+  padding: 2px 10px;
+  border-color: transparent;
+}
+.service-img {
+  height: 300px;
+}
