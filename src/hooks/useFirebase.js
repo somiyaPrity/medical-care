@@ -18,7 +18,7 @@ initializeAuth();
 const useFirebase = () => {
   const auth = getAuth();
   const provider = new GoogleAuthProvider();
-  const [user, setUser] = useState([]);
+  const [user, setUser] = useState({});
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(true);
   // email and password set
@@ -48,7 +48,8 @@ const useFirebase = () => {
     setIsLoading(true);
     createUserWithEmailAndPassword(auth, email, password)
       .then((result) => {
-        setUser(result.user);
+        const info = { ...result.user, displayName: userName };
+        setUser(info);
         console.log(result.user);
         updateUserName();
         setError('');
