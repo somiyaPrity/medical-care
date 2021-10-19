@@ -70,14 +70,5 @@
     "rating": 4.9,
     "phone": "012xxxxxxxx",
     "img": "https://onewelbeck.com/cardiology/wp-content/uploads/sites/3/2019/08/MRI-Scanner.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Diabetic",
-    "price": 50,
-    "service": "Just call us, and we will be at your doorstep . We will even deliver your report at home!",
-    "rating": 2.9,
-    "phone": "012xxxxxxxx",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk7yojkva2l2zZ7l-_cYEcv3bv85rz7Ce3Q&usqp=CAU"
   }
 ]

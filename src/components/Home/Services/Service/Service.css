@@ -1,7 +1,7 @@
 /* service */
 .card-service {
   border-radius: 8px;
-
+  padding: 4px;
   box-shadow: rgba(255, 99, 71, 0.569) 0px 0px 10px;
 }
 .rating-color {
@@ -15,5 +15,7 @@
   border-color: transparent;
 }
 .service-img {
-  height: 300px;
+  border-radius: 8px;
+  height: 200px;
+  /* width: 200px; */
 }

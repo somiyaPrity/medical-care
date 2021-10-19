@@ -13,6 +13,7 @@ import Login from './components/Login/Login/Login';
 import Register from './components/Login/Register/Register';
 import AuthProvider from './context/AuthProvider/AuthProvider';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
+import HomeService from './components/HomeService/HomeService';
 
 export const DataLoadContext = createContext();
 function App() {
@@ -66,6 +67,9 @@ function App() {
               <Route path='/login'>
                 <Login></Login>
               </Route>
+              <PrivateRoute path='/homeService'>
+                <HomeService></HomeService>
+              </PrivateRoute>
               <Route path='*'>
                 <NotFound></NotFound>
               </Route>

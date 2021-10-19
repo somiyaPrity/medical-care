@@ -11,3 +11,17 @@
 .about-img img {
   width: 500px;
 }
+@media only screen and (max-width: 653px) {
+  .about-us {
+    flex-direction: column;
+  }
+  .about-img img {
+    width: 200px;
+  }
+}
+
+@media only screen and (min-width: 654px) and (max-width: 768px) {
+  .about-us {
+    flex-direction: column;
+  }
+}

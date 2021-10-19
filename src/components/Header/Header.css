@@ -22,3 +22,10 @@
   color: #ff6347;
   margin-right: 2px;
 }
+.navbar-dark .navbar-text a {
+  margin-left: 4px;
+  text-decoration: none;
+}
+.navbar-dark .navbar-text {
+  color: #fff;
+}

@@ -3,7 +3,8 @@ import { Button, Container, Form } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useFirebase from '../../../hooks/useFirebase';
 import './Login.css';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGooglePlusG } from '@fortawesome/free-brands-svg-icons';
 const Login = () => {
   const {
     googleSignin,
@@ -47,12 +48,14 @@ const Login = () => {
           <div>
             <p>or</p>
             <button className='service-button' onClick={googleSignin}>
-              Login with Google
+              Login with <FontAwesomeIcon icon={faGooglePlusG} />
             </button>
             <p>
               New User? <Link to='/register'>Register Here</Link>
             </p>
-            <button onClick={resetPassword}>Forget Password?</button>
+            <button className='forget-btn' onClick={resetPassword}>
+              Forget Password?
+            </button>
           </div>
         </div>
       </Container>

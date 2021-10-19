@@ -23,14 +23,7 @@
     "img": "https://image.pngaaa.com/457/5457-middle.png",
     "phone_number": "01xxxxxxxxx"
   },
-  {
-    "id": 4,
-    "name": "Dr. Tani",
-    "degree": "MBBS",
-    "Visiting_hour": "5pm-11pm",
-    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png",
-    "phone_number": "01xxxxxxxxx"
-  },
+
   {
     "id": 5,
     "name": "Dr. Eva",
@@ -61,6 +54,14 @@
     "degree": "MBBS FCPS",
     "Visiting_hour": "5pm-11pm",
     "img": "https://unitedphysiciangroup.com/wp-content/uploads/2019/12/female-doctor.png",
+    "phone_number": "01xxxxxxxxx"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Tani",
+    "degree": "MBBS",
+    "Visiting_hour": "5pm-11pm",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png",
     "phone_number": "01xxxxxxxxx"
   },
   {

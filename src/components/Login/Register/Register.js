@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Button, Container, Form } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGooglePlusG } from '@fortawesome/free-brands-svg-icons';
 import useAuth from '../../../hooks/useAuth';
 
 const Register = () => {
@@ -60,7 +61,7 @@ const Register = () => {
           <div>
             <p>or</p>
             <button className='service-button' onClick={googleSignin}>
-              Sign in with Google
+              Sign in with <FontAwesomeIcon icon={faGooglePlusG} />
             </button>
             <p>
               Already have an account?{' '}
