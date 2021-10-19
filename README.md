@@ -1,6 +1,6 @@
 # Medical Care
 
-### Live Link: https://medical-care-9373c.web.app/
+### Live Link: https://medical-care-9373c.web.app
 
 ## About This Page:
 
