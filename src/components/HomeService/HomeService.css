@@ -1,0 +1,29 @@
+/* home service */
+.home-service {
+  padding: 6px;
+  text-align: center;
+  width: 300px;
+  margin-left: 50px;
+  border: 1px solid #ff6347;
+}
+.card-title {
+  color: #ff6347;
+}
+/* home service responsive */
+@media only screen and (max-width: 440px) {
+  .home-service {
+    width: 200px;
+  }
+}
+@media only screen and (min-width: 441px) and (max-width: 653px) {
+  .home-service {
+    width: 240px;
+  }
+}
+
+@media only screen and (min-width: 654px) and (max-width: 768px) {
+  .home-service {
+    width: 400px;
+    /* margin-left: 0px; */
+  }
+}

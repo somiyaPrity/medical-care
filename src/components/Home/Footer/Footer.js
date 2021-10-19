@@ -10,7 +10,6 @@ import './Footer.css';
 
 const Footer = () => {
   return (
-    
     <div style={{ backgroundColor: '#ff6347', marginTop: '20px' }}>
       <Container>
         <div className='footer'>
@@ -21,6 +20,7 @@ const Footer = () => {
           </div>
           <div className='follow-us'>
             <h6>Follow Us On:</h6>
+            {/* footer icon */}
             <div className='footer-icon'>
               <FontAwesomeIcon icon={faTwitter} />
               <FontAwesomeIcon icon={faFacebookF} />

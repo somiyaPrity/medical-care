@@ -7,7 +7,6 @@ import AboutUs from './components/AboutUs/AboutUs';
 import Doctors from './components/Home/doctors/Doctors';
 import React, { createContext, useEffect, useState } from 'react';
 import Appointment from './components/appointment/Appointment';
-import Services from './components/Home/Services/Services/Services';
 import Details from './components/Home/Services/ServiceDetails/Details';
 import Login from './components/Login/Login/Login';
 import Register from './components/Login/Register/Register';
@@ -17,6 +16,7 @@ import HomeService from './components/HomeService/HomeService';
 
 export const DataLoadContext = createContext();
 function App() {
+  // get data using context
   const [doctors, setDoctors] = useState([]);
   const [services, setServices] = useState([]);
 
@@ -34,9 +34,12 @@ function App() {
   }, []);
 
   return (
+    // auth provider
     <AuthProvider>
+      {/* data provider */}
       <DataLoadContext.Provider value={[doctors, services]}>
         <div className='App'>
+          {/* route */}
           <BrowserRouter>
             <Header></Header>
             <Switch>
@@ -46,9 +49,7 @@ function App() {
               <Route path='/home'>
                 <HomePage></HomePage>
               </Route>
-              {/* <Route path='/services'>
-              <Services></Services>
-            </Route> */}
+
               <Route path='/service/:detailsId'>
                 <Details></Details>
               </Route>
