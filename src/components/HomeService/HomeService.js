@@ -47,7 +47,7 @@ const HomeService = () => {
                 src='https://cdn3.iconfinder.com/data/icons/medical-healthcare-vol-3/48/health_hospital_medical_healthcare_medicalcare_doctor_clinic_physician_physic_Chemistry_laboratory_lab_laboratory_test-512.png'
               />
               <Card.Body>
-                <Card.Title>Our Home Lab services</Card.Title>
+                <Card.Title> Home Sample Collection</Card.Title>
                 <Card.Text>
                   you will be treated by caring, internationally trained
                   doctors. They take the time to listen to you and understand

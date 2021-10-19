@@ -1,3 +1,4 @@
+/* doctor */
 .doctor-img {
   height: 300px;
 }
@@ -18,4 +19,7 @@
 }
 .doctor-heading h1 {
   color: #ff6347;
+}
+.doctor-name {
+  color: #fff;
 }

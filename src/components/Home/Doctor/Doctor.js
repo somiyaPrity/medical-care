@@ -10,7 +10,7 @@ const Doctor = (props) => {
       <Card>
         <Card.Img className='img-fluid doctor-img' variant='top' src={img} />
         <Card.Footer>
-          <Card.Title>{name}</Card.Title>
+          <Card.Title ClassName="doctor-name">{name}</Card.Title>
           <Card.Text>
             <p>{degree}</p>
             <p>{visiting_hour}</p>
